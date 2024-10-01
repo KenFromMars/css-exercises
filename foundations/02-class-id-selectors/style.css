@@ -1,0 +1,17 @@
+.main{
+    background-color: rgb(226, 73, 150);
+    font-family: Verdana, Dejavu sans, sans-serif;
+}
+#ken {
+    color: #0000ff;
+    font-size: 36px;
+    
+}
+.main.two{
+    font-size: 24px;
+}
+#keno {
+    background-color: hsl(120, 30%, 54%);
+    font-size: 24px;
+    font-weight: bold;
+}
